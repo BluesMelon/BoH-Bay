@@ -125,5 +125,5 @@
 	activation_message="Your eyes feel weird..."
 	disability=NEARSIGHTED
 
-/datum/dna/gene/disability/nearsighted/New()
+/datum/dna/gene/disability/nearsighted/New()  //haciendo un comentario
 	block=GLOB.GLASSESBLOCK
